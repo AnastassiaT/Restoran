@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\restoranTsausova\restoranTsausova\bin\Debug\restoranTsausova.exe.config
+C:\Users\opilane\source\repos\restoranTsausova\restoranTsausova\bin\Debug\restoranTsausova.exe
+C:\Users\opilane\source\repos\restoranTsausova\restoranTsausova\bin\Debug\restoranTsausova.pdb
+C:\Users\opilane\source\repos\restoranTsausova\restoranTsausova\obj\Debug\restoranTsausova.Form1.resources
+C:\Users\opilane\source\repos\restoranTsausova\restoranTsausova\obj\Debug\restoranTsausova.Properties.Resources.resources
+C:\Users\opilane\source\repos\restoranTsausova\restoranTsausova\obj\Debug\restoranTsausova.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\restoranTsausova\restoranTsausova\obj\Debug\restoranTsausova.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\restoranTsausova\restoranTsausova\obj\Debug\restoranTsausova.exe
+C:\Users\opilane\source\repos\restoranTsausova\restoranTsausova\obj\Debug\restoranTsausova.pdb
+C:\Users\opilane\source\repos\restoranTsausova\restoranTsausova\bin\Debug\Restoran.mdf
+C:\Users\opilane\source\repos\restoranTsausova\restoranTsausova\bin\Debug\Restoran_log.ldf
+C:\Users\opilane\source\repos\restoranTsausova\restoranTsausova\obj\Debug\restoranTsausova.csprojAssemblyReference.cache
