@@ -134,6 +134,12 @@
     <None Include="Resources\marco-completo-fondo-acuarela-textura-purpura_23-2148153334.jpg" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Resources\img\margarita.jpg" />
+    <Content Include="Resources\img\mjaso.jpg" />
+    <Content Include="Resources\img\moreprodukt.jpg" />
+    <Content Include="Resources\img\peperoni.jpg" />
+    <Content Include="Resources\img\sqr.jpg" />
+    <Content Include="Resources\img\vegan.jpg" />
     <Content Include="Restoran.mdf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
